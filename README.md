@@ -20,6 +20,6 @@ This repository contains examples and exercises for practicing loops in C++.
 
 This script will compile the `main.cpp` file and execute the resulting executable.
 
-Here's a gif for funsies:
+## Here's a gif for funsies:
 ![Cat GIF](https://media1.tenor.com/m/VUDkGyFt9p8AAAAC/catgen.gif)
 
