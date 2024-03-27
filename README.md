@@ -4,7 +4,7 @@ This repository contains examples and exercises for practicing loops in C++.
 
 ## Examples
 
-1. **Calculate the Sum**: Calculate the sum of numbers from 1 to 100 using a range-based for loop.
+1. **Calculate the Sum**: Calculate the sum of even numbers in a given vector using a range-based for loop.
 2. **Find the Factorial**: Calculate the factorial of a given number using a while loop.
 3. **Guess the Number Game**: Implement a number guessing game where the user has to guess a randomly generated number using a do-while loop.
  
