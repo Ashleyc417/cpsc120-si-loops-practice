@@ -20,6 +20,27 @@ This repository contains examples and exercises for practicing loops in C++.
 
 This script will compile the `main.cpp` file and execute the resulting executable.
 
-## Here's a gif for funsies:
+## Sample Run:
+```
+Your code compiled!! :) Running the program..
+The sum of all the even numbers from 1-10 is: 30
+
+Let's find the factorial of a number.
+Enter a positive integer: 6
+Factorial of 6 is: 720
+
+Guess the number (between 1 and 10): 1
+Too low! Try again.
+Guess the number (between 1 and 10): 2
+Too low! Try again.
+Guess the number (between 1 and 10): 3
+Too low! Try again.
+Guess the number (between 1 and 10): 4
+Too low! Try again.
+Guess the number (between 1 and 10): 5
+Congratulations! You guessed the number.
+```
+
+### Here's a gif for funsies:
 ![Cat GIF](https://media1.tenor.com/m/VUDkGyFt9p8AAAAC/catgen.gif)
 
