@@ -21,5 +21,5 @@ This repository contains examples and exercises for practicing loops in C++.
 This script will compile the `main.cpp` file and execute the resulting executable.
 
 Here's a gif for funsies:
-![Cat GIF](https://www.tiktok.com/@amo_2.0/video/7194630980991323397?is_from_webapp=1&sender_device=pc&web_id=7350946970042893870)
+!(https://www.tiktok.com/@amo_2.0/video/7194630980991323397?is_from_webapp=1&sender_device=pc&web_id=7350946970042893870)
 
